@@ -1,0 +1,35 @@
+.botao-orcamento{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #001F3F;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 70px;
+    cursor: pointer;
+    transition: box-shadow 0.3s, transform 0.2s;
+    box-shadow: 7px 7px 7px #001F3F;
+}
+.puzzles{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+
+}
+.intro{
+    display: flex;
+    flex-direction: column;
+}
+.mar {
+    margin: 20px 0; 
+    border: none; 
+    height: 2px; 
+    background-color:  #E080E0; 
+   
+ 
+  }
+h2,p {
+    text-align: center;
+    
+}
